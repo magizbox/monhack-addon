@@ -2,8 +2,8 @@
   "name": "monhack",
   "title": "monhack",
   "id": "jid1-A7rMJAPGwxuFMA",
-  "description": "a basic add-on",
-  "author": "",
+  "description": "MONster documentation for HACKers",
+  "author": "brother.rain.1024@gmail.com",
   "license": "MPL 2.0",
-  "version": "0.1"
+  "version": "1.0"
 }
